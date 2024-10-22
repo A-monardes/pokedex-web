@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokedex-web", "pokedex-web\pokedex-web.csproj", "{E2BBE51F-B530-4DDD-A3A3-339FD2D3C6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{A90E442C-2DF1-4F44-9600-930AED246E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pokemonCenter", "pokemonCenter\pokemonCenter.csproj", "{86F1E797-64C9-4ABD-BDA6-9BAD3BCFF6C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BBE51F-B530-4DDD-A3A3-339FD2D3C6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2BBE51F-B530-4DDD-A3A3-339FD2D3C6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2BBE51F-B530-4DDD-A3A3-339FD2D3C6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2BBE51F-B530-4DDD-A3A3-339FD2D3C6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A90E442C-2DF1-4F44-9600-930AED246E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A90E442C-2DF1-4F44-9600-930AED246E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A90E442C-2DF1-4F44-9600-930AED246E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A90E442C-2DF1-4F44-9600-930AED246E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F1E797-64C9-4ABD-BDA6-9BAD3BCFF6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F1E797-64C9-4ABD-BDA6-9BAD3BCFF6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F1E797-64C9-4ABD-BDA6-9BAD3BCFF6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F1E797-64C9-4ABD-BDA6-9BAD3BCFF6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40FDB827-5900-43A1-8DA9-1A5AF91A8486}
+	EndGlobalSection
+EndGlobal
